@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     <title>
-        <?php echo get_setting('custom_title', 'InvoicePlane', true); ?>
+        <?php echo get_setting('custom_title', 'CivilTec', true); ?>
         - <?php echo trans('invoice'); ?> <?php echo $invoice->invoice_number; ?>
     </title>
 
